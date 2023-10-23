@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65369af8486ec86a063edf56"
+  },
+  "lugar": "Almacen 1",
+  "capacidad": 5
+},
+{
+  "_id": {
+    "$oid": "65369af8486ec86a063edf57"
+  },
+  "lugar": "Almacen 2",
+  "capacidad": 7
+},
+{
+  "_id": {
+    "$oid": "65369af8486ec86a063edf58"
+  },
+  "lugar": "Almacen 3",
+  "capacidad": 10
+},
+{
+  "_id": {
+    "$oid": "65369af8486ec86a063edf59"
+  },
+  "lugar": "Almacen 4",
+  "capacidad": 15
+}]

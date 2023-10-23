@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65369d79486ec86a063edf5e"
+  },
+  "nombre": "Interestellar",
+  "calificacionEdad": 7
+},
+{
+  "_id": {
+    "$oid": "65369e8c486ec86a063edf5f"
+  },
+  "nombre": "Los 4 fantasticos",
+  "calificacionEdad": 7
+},
+{
+  "_id": {
+    "$oid": "65369e8c486ec86a063edf60"
+  },
+  "nombre": "Oppenheimer",
+  "calificacionEdad": 18
+},
+{
+  "_id": {
+    "$oid": "65369e8c486ec86a063edf61"
+  },
+  "nombre": "Los Vengadores : Endgame",
+  "calificacionEdad": 5
+}]

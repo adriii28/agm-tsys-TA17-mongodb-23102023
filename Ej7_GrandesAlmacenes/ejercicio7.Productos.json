@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6536a4a0486ec86a063edf81"
+  },
+  "nombre": "Agua",
+  "precio": 0.5
+},
+{
+  "_id": {
+    "$oid": "6536a4e5486ec86a063edf82"
+  },
+  "nombre": "Bacon",
+  "precio": 2.3
+},
+{
+  "_id": {
+    "$oid": "6536a4e5486ec86a063edf83"
+  },
+  "nombre": "Pan",
+  "precio": 1
+},
+{
+  "_id": {
+    "$oid": "6536a4e5486ec86a063edf84"
+  },
+  "nombre": "Hamburguesa",
+  "precio": 5
+}]

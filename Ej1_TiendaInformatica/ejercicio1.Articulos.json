@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6536b27b168592d3f78d8050"
+  },
+  "nombre": "Articulo 1",
+  "precio": 10,
+  "id_fabricate": {
+    "$oid": "6536b1f6168592d3f78d804c"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b290168592d3f78d8051"
+  },
+  "nombre": "Articulo 2",
+  "precio": 20,
+  "id_fabricate": {
+    "$oid": "6536b204168592d3f78d804d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b33d168592d3f78d8052"
+  },
+  "nombre": "Articulo 3",
+  "precio": 15,
+  "id_fabricate": {
+    "$oid": "6536b206168592d3f78d804e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b34a168592d3f78d8053"
+  },
+  "nombre": "Articulo 4",
+  "precio": 21,
+  "id_fabricate": {
+    "$oid": "6536b209168592d3f78d804f"
+  }
+}]

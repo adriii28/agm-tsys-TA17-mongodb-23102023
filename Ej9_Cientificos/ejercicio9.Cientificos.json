@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6536ad19486ec86a063edf9d"
+  },
+  "dni": "12345678J",
+  "nomApels": "Adrian Gallego"
+},
+{
+  "_id": {
+    "$oid": "6536ad76486ec86a063edf9e"
+  },
+  "dni": "12345678L",
+  "nomApels": "Manel Castellvi"
+},
+{
+  "_id": {
+    "$oid": "6536ad76486ec86a063edf9f"
+  },
+  "dni": "87654321H",
+  "nomApels": "Robert Lopez"
+},
+{
+  "_id": {
+    "$oid": "6536ad76486ec86a063edfa0"
+  },
+  "dni": "18273645D",
+  "nomApels": "Paco Perez"
+}]

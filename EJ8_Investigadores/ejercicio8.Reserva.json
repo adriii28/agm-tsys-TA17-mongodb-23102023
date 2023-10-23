@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "6536ab9b486ec86a063edf99"
+  },
+  "idInvestigadores": {
+    "$oid": "6536aa49486ec86a063edf95"
+  },
+  "idEquipos": {
+    "$oid": "6536a97b486ec86a063edf91"
+  },
+  "comienzo": "12-09-2023",
+  "fin": "31-12-2023"
+},
+{
+  "_id": {
+    "$oid": "6536ac01486ec86a063edf9a"
+  },
+  "idInvestigadores": {
+    "$oid": "6536aab4486ec86a063edf96"
+  },
+  "idEquipos": {
+    "$oid": "6536a9b6486ec86a063edf92"
+  },
+  "comienzo": "12-09-2023",
+  "fin": "31-12-2023"
+},
+{
+  "_id": {
+    "$oid": "6536ac01486ec86a063edf9b"
+  },
+  "idInvestigadores": {
+    "$oid": "6536aab4486ec86a063edf97"
+  },
+  "idEquipos": {
+    "$oid": "6536a9b6486ec86a063edf93"
+  },
+  "comienzo": "02-01-2022",
+  "fin": "28-07-2022"
+},
+{
+  "_id": {
+    "$oid": "6536ac01486ec86a063edf9c"
+  },
+  "idInvestigadores": {
+    "$oid": "6536aab4486ec86a063edf98"
+  },
+  "idEquipos": {
+    "$oid": "6536a9b6486ec86a063edf94"
+  },
+  "comienzo": "20-06-2023",
+  "fin": "25-10-2023"
+}]

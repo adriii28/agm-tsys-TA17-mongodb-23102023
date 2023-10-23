@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6536ae7b486ec86a063edfa1"
+  },
+  "nombre": "Proyecto 1",
+  "horas": 50
+},
+{
+  "_id": {
+    "$oid": "6536aeb1486ec86a063edfa2"
+  },
+  "nombre": "Proyecto 2",
+  "horas": 60
+},
+{
+  "_id": {
+    "$oid": "6536aeb1486ec86a063edfa3"
+  },
+  "nombre": "Proyecto 3",
+  "horas": 30
+},
+{
+  "_id": {
+    "$oid": "6536aeb1486ec86a063edfa4"
+  },
+  "nombre": "Proyecto 4",
+  "horas": 70
+}]
