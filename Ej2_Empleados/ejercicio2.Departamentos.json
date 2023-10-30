@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6536b3c7168592d3f78d8054"
+  },
+  "nombre": "Departamento 1",
+  "presupuesto": 60000
+},
+{
+  "_id": {
+    "$oid": "6536b3cf168592d3f78d8055"
+  },
+  "nombre": "Departamento 2",
+  "presupuesto": 35000
+},
+{
+  "_id": {
+    "$oid": "6536b3d7168592d3f78d8056"
+  },
+  "nombre": "Departamento 3",
+  "presupuesto": 26000
+},
+{
+  "_id": {
+    "$oid": "6536b3e1168592d3f78d8057"
+  },
+  "nombre": "Departamento 4",
+  "presupuesto": 62000
+}]

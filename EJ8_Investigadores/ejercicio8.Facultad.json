@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6536a8f0486ec86a063edf8d"
+  },
+  "nombre": "Facultad 1"
+},
+{
+  "_id": {
+    "$oid": "6536a8f0486ec86a063edf8e"
+  },
+  "nombre": "Facultad 2"
+},
+{
+  "_id": {
+    "$oid": "6536a8f0486ec86a063edf8f"
+  },
+  "nombre": "Facultad 3"
+},
+{
+  "_id": {
+    "$oid": "6536a8f0486ec86a063edf90"
+  },
+  "nombre": "Facultad 4"
+}]

@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "65369c4c486ec86a063edf5a"
+  },
+  "numreferencia": "R001",
+  "contenido": "Caja 1",
+  "valor": 100,
+  "almacen": {
+    "$oid": "65369af8486ec86a063edf56"
+  }
+},
+{
+  "_id": {
+    "$oid": "65369c4c486ec86a063edf5b"
+  },
+  "numreferencia": "R002",
+  "contenido": "Caja 2",
+  "valor": 50,
+  "almacen": {
+    "$oid": "65369af8486ec86a063edf57"
+  }
+},
+{
+  "_id": {
+    "$oid": "65369c4c486ec86a063edf5c"
+  },
+  "numreferencia": "R003",
+  "contenido": "Caja 3",
+  "valor": 75,
+  "almacen": {
+    "$oid": "65369af8486ec86a063edf58"
+  }
+},
+{
+  "_id": {
+    "$oid": "65369c4c486ec86a063edf5d"
+  },
+  "numreferencia": "R004",
+  "contenido": "Caja 4",
+  "valor": 20,
+  "almacen": {
+    "$oid": "65369af8486ec86a063edf59"
+  }
+}]

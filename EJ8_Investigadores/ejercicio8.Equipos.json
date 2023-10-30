@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6536a97b486ec86a063edf91"
+  },
+  "nombre": "Equipo 1",
+  "facultad": {
+    "$oid": "6536a8f0486ec86a063edf8d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a9b6486ec86a063edf92"
+  },
+  "nombre": "Equipo 2",
+  "facultad": {
+    "$oid": "6536a8f0486ec86a063edf8e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a9b6486ec86a063edf93"
+  },
+  "nombre": "Equipo 3",
+  "facultad": {
+    "$oid": "6536a8f0486ec86a063edf8f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536a9b6486ec86a063edf94"
+  },
+  "nombre": "Equipo 4",
+  "facultad": {
+    "$oid": "6536a8f0486ec86a063edf90"
+  }
+}]

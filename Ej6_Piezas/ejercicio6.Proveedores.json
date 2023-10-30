@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6536a26f486ec86a063edf71"
+  },
+  "nombre": "Proveedor 1"
+},
+{
+  "_id": {
+    "$oid": "6536a28c486ec86a063edf72"
+  },
+  "nombre": "Proveedor 2"
+},
+{
+  "_id": {
+    "$oid": "6536a28c486ec86a063edf73"
+  },
+  "nombre": "Proveedor 3"
+},
+{
+  "_id": {
+    "$oid": "6536a28c486ec86a063edf74"
+  },
+  "nombre": "Proveedor 4"
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6536aa49486ec86a063edf95"
+  },
+  "dni": "12345678A",
+  "nomApels": "Adrian Gallego",
+  "facultad": {
+    "$oid": "6536a8f0486ec86a063edf8d"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536aab4486ec86a063edf96"
+  },
+  "dni": "12345678V",
+  "nomApels": "Manel Castellvi",
+  "facultad": {
+    "$oid": "6536a8f0486ec86a063edf8e"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536aab4486ec86a063edf97"
+  },
+  "dni": "87654321B",
+  "nomApels": "Robert Lopez",
+  "facultad": {
+    "$oid": "6536a8f0486ec86a063edf8f"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536aab4486ec86a063edf98"
+  },
+  "dni": "18273645N",
+  "nomApels": "Pepe Perez",
+  "facultad": {
+    "$oid": "6536a8f0486ec86a063edf90"
+  }
+}]

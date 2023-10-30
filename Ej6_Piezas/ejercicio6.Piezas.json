@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6536a2e4486ec86a063edf75"
+  },
+  "nombre": "Pieza 1"
+},
+{
+  "_id": {
+    "$oid": "6536a2e4486ec86a063edf76"
+  },
+  "nombre": "Pieza 2"
+},
+{
+  "_id": {
+    "$oid": "6536a2e4486ec86a063edf77"
+  },
+  "nombre": "Pieza 3"
+},
+{
+  "_id": {
+    "$oid": "6536a2e4486ec86a063edf78"
+  },
+  "nombre": "Pieza 4"
+}]

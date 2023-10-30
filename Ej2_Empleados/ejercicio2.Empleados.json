@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6536b4b0168592d3f78d8058"
+  },
+  "dni": "12345678P",
+  "nombre": "Adrian",
+  "apellido": "Gallego",
+  "id_departamento": {
+    "$oid": "6536b3c7168592d3f78d8054"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b4e8168592d3f78d8059"
+  },
+  "dni": "87654321Q",
+  "nombre": "Robert",
+  "apellido": "Lopez",
+  "id_departamento": {
+    "$oid": "6536b3cf168592d3f78d8055"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b566168592d3f78d805a"
+  },
+  "dni": "18273645X",
+  "nombre": "Manel",
+  "apellido": "Castellvi",
+  "id_departamento": {
+    "$oid": "6536b3d7168592d3f78d8056"
+  }
+},
+{
+  "_id": {
+    "$oid": "6536b57a168592d3f78d805b"
+  },
+  "dni": "11112222Z",
+  "nombre": "Pepe",
+  "apellido": "Perez",
+  "id_departamento": {
+    "$oid": "6536b3e1168592d3f78d8057"
+  }
+}]
